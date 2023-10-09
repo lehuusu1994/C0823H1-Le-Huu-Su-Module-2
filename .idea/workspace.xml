@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1476c56d-961d-4ec9-b277-0a013756947d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/codegym/operator_expression/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codegym/linear_equation_resolver/LinearEquationResolver.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,7 +52,20 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Rectangle">
+  <component name="RunManager" selected="Application.LinearEquationResolver">
+    <configuration name="LinearEquationResolver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codegym.linear_equation_resolver.LinearEquationResolver" />
+      <module name="lesson-01-java-introduction" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codegym.linear_equation_resolver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Rectangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.codegym.operator_expression.Rectangle" />
       <module name="lesson-01-java-introduction" />
@@ -81,6 +94,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LinearEquationResolver" />
         <item itemvalue="Application.Rectangle" />
         <item itemvalue="Application.VariableDataType" />
       </list>
@@ -98,7 +112,7 @@
       <workItem from="1696838331501" duration="26000" />
       <workItem from="1696838815573" duration="147000" />
       <workItem from="1696839007844" duration="2407000" />
-      <workItem from="1696865933701" duration="688000" />
+      <workItem from="1696865933701" duration="1759000" />
     </task>
     <servers />
   </component>

@@ -1,4 +1,4 @@
-package com.codegym.systemtime;
+package com.codegym.system_time;
 
 import java.util.Date;
 

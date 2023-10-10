@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1476c56d-961d-4ec9-b277-0a013756947d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/codegym/hello/Hello.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codegym/currency_conversion/CurrencyConversion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +52,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Hello">
+  <component name="RunManager" selected="Application.CurrencyConversion">
     <configuration name="BmiCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.codegym.bmi_calculator.BmiCalculator" />
       <module name="lesson-01-java-introduction" />
@@ -65,12 +66,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DayOfMonth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codegym.day_of_month.DayOfMonth" />
+    <configuration name="CurrencyConversion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codegym.currency_conversion.CurrencyConversion" />
       <module name="lesson-01-java-introduction" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.codegym.day_of_month.*" />
+          <option name="PATTERN" value="com.codegym.currency_conversion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CurrencyConversion" />
         <item itemvalue="Application.Hello" />
         <item itemvalue="Application.BmiCalculator" />
         <item itemvalue="Application.LeapYearCalculator" />
         <item itemvalue="Application.Variable02" />
-        <item itemvalue="Application.DayOfMonth" />
       </list>
     </recent_temporary>
   </component>
@@ -141,7 +142,7 @@
       <workItem from="1696839007844" duration="2407000" />
       <workItem from="1696865933701" duration="4349000" />
       <workItem from="1696903154889" duration="4571000" />
-      <workItem from="1696908817965" duration="4052000" />
+      <workItem from="1696908817965" duration="4860000" />
     </task>
     <servers />
   </component>
